@@ -1,1 +1,8 @@
+.title {
+  font-weight: bolder;
+  color: red;
+}
 
+.post {
+  margin-bottom: 2%;
+}
